@@ -8,3 +8,5 @@ scripts/
 .DS_Store
 metadata/
 brownie-config.yaml
+
+node_modules/
